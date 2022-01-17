@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+ruby '2.7.4'
+
+group :development do
+  gem 'rubocop', '0.86.0'
+end
